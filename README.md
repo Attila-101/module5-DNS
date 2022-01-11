@@ -14,8 +14,8 @@ I selected the correct IP address of my server when I added the new DNS zone but
 
 Adding CNAME record to demo.example.module5.com to point to tskoli.is
 
-<img src="AddingCNAMERecordToPointToTskoli.jpg">
+<img src="images/AddingCNAMERecordToPointToTskoli.jpg">
 
 ## CNAME record pointing to tskoli.is
 
-<img src="CNAMERecordPointingToTskoli.jpg">
+<img src="images/CNAMERecordPointingToTskoli.jpg">
