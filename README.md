@@ -4,7 +4,7 @@
 
 <img src="images/AddingDNSZone.jpg">
 
-I selected the correct IP address of my server when I added the new DNS zone but if you want to edit it you can do so as in the next image.
+I selected the correct IP address of my server when I added the new DNS zone. On how to edit it, please refer to the next image.
 
 ## Editing server IP address
 
@@ -14,8 +14,8 @@ I selected the correct IP address of my server when I added the new DNS zone but
 
 Adding CNAME record to demo.example.module5.com to point to tskoli.is
 
-<img src="images/AddingCNAMERecordToPointToTskoli.jpg">
+<img src="images/AddingCNAMERecordToPointToTskoli.is.jpg">
 
 ## CNAME record pointing to tskoli.is
 
-<img src="images/CNAMERecordPointingToTskoli.jpg">
+<img src="images/CNAMERecordPointingToTskoli.is.jpg">
