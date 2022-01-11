@@ -4,7 +4,7 @@
 
 <img src="images/AddingDNSZone.jpg">
 
-I selected the correct IP address of my server when I added the new DNS zone. On how to edit it, please refer to the next image.
+I selected the correct IP address of my server when I added the new DNS zone. Please refer to the next image on how to edit it.
 
 ## Editing server IP address
 
